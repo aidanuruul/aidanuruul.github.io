@@ -1,0 +1,60 @@
+body {
+	background-image: url("bg4.jpg");
+}
+h1 {
+	font-weight: 6px;
+	color: #607f7f;
+
+}
+
+img {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+
+}
+
+.tulisan {
+	margin-right: 40px;
+	margin-left: 40px;
+	border-radius: 10px;
+	display: block;
+	background-color: #575b5b;
+	font-size: 20PX;
+	padding: 13px;
+	color: white;
+	font-family: garamond;
+
+}
+
+.btn {
+	width: 250px;
+	margin-top: 15px;
+	margin-left: 45px;
+	margin-bottom: 50px;
+
+}
+
+.text-center{
+	margin-top: 15PX
+}
+.katakata {
+	margin-right: 40px;
+	margin-left: 40px;
+	border-radius: 10px;
+	display: block;
+	background-color: #575b5b;
+	font-size: 20PX;
+	padding: 13px;
+	color: white;
+	font-family: courier;
+
+}
+
+
+.galeri{
+	font-family: garamond;
+	font-size: 20px;
+}
+
+
